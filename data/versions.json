@@ -1,0 +1,61 @@
+{
+ "country": "US-SD",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "SD Const.",
+   "title": "Constitution of the State of South Dakota",
+   "url": "https://sdlegislature.gov/Constitution",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 266,
+     "source_url": "https://sdlegislature.gov/Constitution",
+     "sha256": "b79f9fa87482ca3b64827d699cb918a382e3de5e46ceb6dfccca860bd339f513"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-crimes",
+   "short": "SDCL 22",
+   "title": "SDCL Title 22: Crimes",
+   "url": "https://sdlegislature.gov/Statutes?Title=22",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 962,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=22",
+     "sha256": "aa27a3722a5eb5a76a1002a684a4376af84875a3fb856105b714077c2591eb55"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-47-1a-business-corporations",
+   "short": "SDCL 47-1A",
+   "title": "SDCL chapter 47-1A: South Dakota Business Corporation Act",
+   "url": "https://sdlegislature.gov/Statutes?Title=47",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 387,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=47",
+     "sha256": "a22dc2a1ffdc331fc770b71c2913e6f615fb991a15504109404584aaed9a28f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-43-32-residential-landlord-tenant",
+   "short": "SDCL 43-32",
+   "title": "SDCL chapter 43-32: Landlord and Tenant",
+   "url": "https://sdlegislature.gov/Statutes?Title=43",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 43,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=43",
+     "sha256": "cefc40618167c643a887a7ed697717bda9329678ff79c273f399058665ee9c45"
+    }
+   ]
+  }
+ ]
+}

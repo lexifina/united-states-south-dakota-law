@@ -1,0 +1,9 @@
+{
+  "path": "us-sd",
+  "code": "SD",
+  "name": "South Dakota",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-south-dakota-law",
+  "build": "built: Constitution; SDCL Title 22, chapters 47-1A and 43-32",
+  "register_date": "2026-10-30"
+}
