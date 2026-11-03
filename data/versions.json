@@ -56,6 +56,944 @@
      "sha256": "cefc40618167c643a887a7ed697717bda9329678ff79c273f399058665ee9c45"
     }
    ]
+  },
+  {
+   "slug": "title-1",
+   "short": "SDCL 1",
+   "title": "SDCL Title 1",
+   "url": "https://sdlegislature.gov/Statutes?Title=1",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 2040,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=1",
+     "sha256": "e539ed84a499f7b7e1a68d23143ff01467bb3b9a3f1376320a7df665e24010ef"
+    }
+   ]
+  },
+  {
+   "slug": "title-2",
+   "short": "SDCL 2",
+   "title": "SDCL Title 2",
+   "url": "https://sdlegislature.gov/Statutes?Title=2",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 329,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=2",
+     "sha256": "9d1d5fa060fec0e89cede445f51b991960f0da86d56654a5d4b0050a12dda26e"
+    }
+   ]
+  },
+  {
+   "slug": "title-3",
+   "short": "SDCL 3",
+   "title": "SDCL Title 3",
+   "url": "https://sdlegislature.gov/Statutes?Title=3",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1133,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=3",
+     "sha256": "b73c8c8de06ce98cafcb7193d4f655b14ff52694c62e0318d0b5c606e71ad571"
+    }
+   ]
+  },
+  {
+   "slug": "title-4",
+   "short": "SDCL 4",
+   "title": "SDCL Title 4",
+   "url": "https://sdlegislature.gov/Statutes?Title=4",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 359,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=4",
+     "sha256": "d8d019ff76c07897f256f67615d113d5785660d97d19516ce746b173a42effb5"
+    }
+   ]
+  },
+  {
+   "slug": "title-5",
+   "short": "SDCL 5",
+   "title": "SDCL Title 5",
+   "url": "https://sdlegislature.gov/Statutes?Title=5",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 728,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=5",
+     "sha256": "9f26502d8f5dd74c200853adcc5305057a8a3127386e3235d62943e4ea8a7b6d"
+    }
+   ]
+  },
+  {
+   "slug": "title-6",
+   "short": "SDCL 6",
+   "title": "SDCL Title 6",
+   "url": "https://sdlegislature.gov/Statutes?Title=6",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 216,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=6",
+     "sha256": "667c12cbe9ab2beba35f7ae8f414d5b9c48c5068dace4505aaf735df56d422a7"
+    }
+   ]
+  },
+  {
+   "slug": "title-7",
+   "short": "SDCL 7",
+   "title": "SDCL Title 7",
+   "url": "https://sdlegislature.gov/Statutes?Title=7",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 794,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=7",
+     "sha256": "bb3dd850dc094e8fcd9b5a482c369cba3494d1013776d18e9d6971c3c442e92b"
+    }
+   ]
+  },
+  {
+   "slug": "title-8",
+   "short": "SDCL 8",
+   "title": "SDCL Title 8",
+   "url": "https://sdlegislature.gov/Statutes?Title=8",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 164,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=8",
+     "sha256": "18f2de0aa09f864ad2be5edd5e980667e41fb74d0b107ebcbf22484a0f15914c"
+    }
+   ]
+  },
+  {
+   "slug": "title-9",
+   "short": "SDCL 9",
+   "title": "SDCL Title 9",
+   "url": "https://sdlegislature.gov/Statutes?Title=9",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1315,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=9",
+     "sha256": "b931eafffae854a695770517fbab10b58627ac45d8f3e925df6660253ebf0ceb"
+    }
+   ]
+  },
+  {
+   "slug": "title-10",
+   "short": "SDCL 10",
+   "title": "SDCL Title 10",
+   "url": "https://sdlegislature.gov/Statutes?Title=10",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 2387,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=10",
+     "sha256": "4696ee183fa8d99d2fb31fab3b9c46d85e33e2e8992916eb3cf39e8ef26993cb"
+    }
+   ]
+  },
+  {
+   "slug": "title-11",
+   "short": "SDCL 11",
+   "title": "SDCL Title 11",
+   "url": "https://sdlegislature.gov/Statutes?Title=11",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 684,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=11",
+     "sha256": "74f6059a9543ef5e848b6c67a1555479023eac6f8356e9b4414f66a0e371417e"
+    }
+   ]
+  },
+  {
+   "slug": "title-12",
+   "short": "SDCL 12",
+   "title": "SDCL Title 12",
+   "url": "https://sdlegislature.gov/Statutes?Title=12",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 854,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=12",
+     "sha256": "ac4ecc9fea4f55d15bc89ead89903f1459615f92de84efb08c206045ef2d5c0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-13",
+   "short": "SDCL 13",
+   "title": "SDCL Title 13",
+   "url": "https://sdlegislature.gov/Statutes?Title=13",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1922,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=13",
+     "sha256": "790dd40ca9db00148bd0651162786acc66ef03c903ed875fc1a2149e1fa52a0b"
+    }
+   ]
+  },
+  {
+   "slug": "title-14",
+   "short": "SDCL 14",
+   "title": "SDCL Title 14",
+   "url": "https://sdlegislature.gov/Statutes?Title=14",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 96,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=14",
+     "sha256": "9b674312ff1ed1b74643e92d990f65e7724fe4f19ebf7b74fdd9df3e2d6d743c"
+    }
+   ]
+  },
+  {
+   "slug": "title-15",
+   "short": "SDCL 15",
+   "title": "SDCL Title 15",
+   "url": "https://sdlegislature.gov/Statutes?Title=15",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1098,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=15",
+     "sha256": "558ef4cd21aa1568014933aeded8bbfac81e00e5023934075e0a53e765491013"
+    }
+   ]
+  },
+  {
+   "slug": "title-16",
+   "short": "SDCL 16",
+   "title": "SDCL Title 16",
+   "url": "https://sdlegislature.gov/Statutes?Title=16",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 647,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=16",
+     "sha256": "47ff2e843000f1134782b6d0032061550f88f78193c61d35070882e9bde08eca"
+    }
+   ]
+  },
+  {
+   "slug": "title-17",
+   "short": "SDCL 17",
+   "title": "SDCL Title 17",
+   "url": "https://sdlegislature.gov/Statutes?Title=17",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 46,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=17",
+     "sha256": "1eacc53aa7f702094b26ca9b03ce16005152dfc90a5bc93522559c0337040847"
+    }
+   ]
+  },
+  {
+   "slug": "title-18",
+   "short": "SDCL 18",
+   "title": "SDCL Title 18",
+   "url": "https://sdlegislature.gov/Statutes?Title=18",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 101,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=18",
+     "sha256": "7dd1ad7fdf16e53136d3fb07f2fd23fd3815ccefd5fdad55cc5b38c7cd848915"
+    }
+   ]
+  },
+  {
+   "slug": "title-19",
+   "short": "SDCL 19",
+   "title": "SDCL Title 19",
+   "url": "https://sdlegislature.gov/Statutes?Title=19",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 285,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=19",
+     "sha256": "d4bb8be7112775190c8739eb30ae4c1dd70c20b1a551228eacc61f7d44279885"
+    }
+   ]
+  },
+  {
+   "slug": "title-20",
+   "short": "SDCL 20",
+   "title": "SDCL Title 20",
+   "url": "https://sdlegislature.gov/Statutes?Title=20",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 262,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=20",
+     "sha256": "36b3cd7cdac43f73ef68577809577d7b7ec2a929963b8a1f6fc50827b49c6e2d"
+    }
+   ]
+  },
+  {
+   "slug": "title-21",
+   "short": "SDCL 21",
+   "title": "SDCL Title 21",
+   "url": "https://sdlegislature.gov/Statutes?Title=21",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1098,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=21",
+     "sha256": "b7031154b89c719bdf747bf683a0094940f0d97d0f92bd4ea0a0b8ff404687a2"
+    }
+   ]
+  },
+  {
+   "slug": "title-23",
+   "short": "SDCL 23",
+   "title": "SDCL Title 23",
+   "url": "https://sdlegislature.gov/Statutes?Title=23",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 451,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=23",
+     "sha256": "59d44e2d9cb5ba3eb2f22e073ce05719acf758f1c8e9b12345dccab28b6def78"
+    }
+   ]
+  },
+  {
+   "slug": "title-23a",
+   "short": "SDCL 23A",
+   "title": "SDCL Title 23A",
+   "url": "https://sdlegislature.gov/Statutes?Title=23A",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 979,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=23A",
+     "sha256": "490a407c6ab9532ff58d745cdc93f77ecb89c7338fc647a95ed9107c100832ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-24",
+   "short": "SDCL 24",
+   "title": "SDCL Title 24",
+   "url": "https://sdlegislature.gov/Statutes?Title=24",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 369,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=24",
+     "sha256": "f2b03ab449c2b3a2e4cb3c851434defa061f2d73b13de57297006cce14a2da62"
+    }
+   ]
+  },
+  {
+   "slug": "title-25",
+   "short": "SDCL 25",
+   "title": "SDCL Title 25",
+   "url": "https://sdlegislature.gov/Statutes?Title=25",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 695,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=25",
+     "sha256": "055e8af57c1ce6001f25c93f2e0df307fb4f7cfd97c117e5847f7f4740b07ae2"
+    }
+   ]
+  },
+  {
+   "slug": "title-26",
+   "short": "SDCL 26",
+   "title": "SDCL Title 26",
+   "url": "https://sdlegislature.gov/Statutes?Title=26",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 572,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=26",
+     "sha256": "def60aa8fbdc39eaf13e4f5ec79dc6e310d40bda58890a88402e7234436e85d3"
+    }
+   ]
+  },
+  {
+   "slug": "title-27a",
+   "short": "SDCL 27A",
+   "title": "SDCL Title 27A",
+   "url": "https://sdlegislature.gov/Statutes?Title=27A",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 352,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=27A",
+     "sha256": "59824b116a63850bdce78c5dc297eb3e41f6f20e3ac77da631fa4a8f4dd3053f"
+    }
+   ]
+  },
+  {
+   "slug": "title-27b",
+   "short": "SDCL 27B",
+   "title": "SDCL Title 27B",
+   "url": "https://sdlegislature.gov/Statutes?Title=27B",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 147,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=27B",
+     "sha256": "4bca80c9d8b955de9e1c33bf208faf26940e986e99f41e5446e7ddda6132de83"
+    }
+   ]
+  },
+  {
+   "slug": "title-28",
+   "short": "SDCL 28",
+   "title": "SDCL Title 28",
+   "url": "https://sdlegislature.gov/Statutes?Title=28",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 413,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=28",
+     "sha256": "cbf0c38455cfc8d5884a666b5d6b559c24f6cdc10e0648dfc39723010fe5cc8b"
+    }
+   ]
+  },
+  {
+   "slug": "title-29",
+   "short": "SDCL 29",
+   "title": "SDCL Title 29",
+   "url": "https://sdlegislature.gov/Statutes?Title=29",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 13,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=29",
+     "sha256": "76af7c94f6f4463a8b57fe74be6b5646bd054761e838579d36d3c4992c6a915a"
+    }
+   ]
+  },
+  {
+   "slug": "title-29a",
+   "short": "SDCL 29A",
+   "title": "SDCL Title 29A",
+   "url": "https://sdlegislature.gov/Statutes?Title=29A",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 404,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=29A",
+     "sha256": "44a766c9d790ab2c526cf7cafbd005b6201d58409804682ce13a34806e1c16b8"
+    }
+   ]
+  },
+  {
+   "slug": "title-30",
+   "short": "SDCL 30",
+   "title": "SDCL Title 30",
+   "url": "https://sdlegislature.gov/Statutes?Title=30",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 63,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=30",
+     "sha256": "c4ac0e8fb333e9543d7e784345286c8f6346b5a4ec70f65e67bb0cc80650edb1"
+    }
+   ]
+  },
+  {
+   "slug": "title-31",
+   "short": "SDCL 31",
+   "title": "SDCL Title 31",
+   "url": "https://sdlegislature.gov/Statutes?Title=31",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 874,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=31",
+     "sha256": "a788b4b1975a572fe02366a5e4ac1d4c613b7cb97900501e2c89796cc24be053"
+    }
+   ]
+  },
+  {
+   "slug": "title-32",
+   "short": "SDCL 32",
+   "title": "SDCL Title 32",
+   "url": "https://sdlegislature.gov/Statutes?Title=32",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 2031,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=32",
+     "sha256": "fa775dde5a14cfd1cb88ff5b7500ad577238b268f982f9654481caad8c65abe0"
+    }
+   ]
+  },
+  {
+   "slug": "title-33",
+   "short": "SDCL 33",
+   "title": "SDCL Title 33",
+   "url": "https://sdlegislature.gov/Statutes?Title=33",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 572,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=33",
+     "sha256": "03c3334fee2b485eaf679ea7c815803de83165afa8758d8c4872297553551645"
+    }
+   ]
+  },
+  {
+   "slug": "title-33a",
+   "short": "SDCL 33A",
+   "title": "SDCL Title 33A",
+   "url": "https://sdlegislature.gov/Statutes?Title=33A",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 127,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=33A",
+     "sha256": "595e1f225b3c5e475c344ef56e33124859dab819e32aa67bbc323041e89651d6"
+    }
+   ]
+  },
+  {
+   "slug": "title-34",
+   "short": "SDCL 34",
+   "title": "SDCL Title 34",
+   "url": "https://sdlegislature.gov/Statutes?Title=34",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 2066,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=34",
+     "sha256": "46564d826e58686bea4c8b79afedbde8ed3e628a2d9f3bf7047817f023adfff4"
+    }
+   ]
+  },
+  {
+   "slug": "title-34a",
+   "short": "SDCL 34A",
+   "title": "SDCL Title 34A",
+   "url": "https://sdlegislature.gov/Statutes?Title=34A",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 722,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=34A",
+     "sha256": "8c5f7fedfda4cfa94ff0ee901849bd128793f9cf9a7c49e1c18280103ac23b8f"
+    }
+   ]
+  },
+  {
+   "slug": "title-35",
+   "short": "SDCL 35",
+   "title": "SDCL Title 35",
+   "url": "https://sdlegislature.gov/Statutes?Title=35",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 407,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=35",
+     "sha256": "18ea79c07e3c204c58917ac08a6248a8cebe201764abb6c95ec04a60a5417d7d"
+    }
+   ]
+  },
+  {
+   "slug": "title-36",
+   "short": "SDCL 36",
+   "title": "SDCL Title 36",
+   "url": "https://sdlegislature.gov/Statutes?Title=36",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 2262,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=36",
+     "sha256": "a99b2b213f8d04e73b2679674bf4aa2be2078073a20085cc229f9a735dd58d2e"
+    }
+   ]
+  },
+  {
+   "slug": "title-37",
+   "short": "SDCL 37",
+   "title": "SDCL Title 37",
+   "url": "https://sdlegislature.gov/Statutes?Title=37",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 638,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=37",
+     "sha256": "80215fe9ebe0d4f093735faa9c75cf16f1c3a894428c77fe804df2511adb44de"
+    }
+   ]
+  },
+  {
+   "slug": "title-38",
+   "short": "SDCL 38",
+   "title": "SDCL Title 38",
+   "url": "https://sdlegislature.gov/Statutes?Title=38",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 848,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=38",
+     "sha256": "708e0368c7620e9212f00c53d37d111d7f7a791857d54f0c45e8c50bf989d9c3"
+    }
+   ]
+  },
+  {
+   "slug": "title-39",
+   "short": "SDCL 39",
+   "title": "SDCL Title 39",
+   "url": "https://sdlegislature.gov/Statutes?Title=39",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 314,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=39",
+     "sha256": "b124168a6d43d35bee0aa520c9e1fa2a8d6e689e97cdf570efccc2720a7db415"
+    }
+   ]
+  },
+  {
+   "slug": "title-40",
+   "short": "SDCL 40",
+   "title": "SDCL Title 40",
+   "url": "https://sdlegislature.gov/Statutes?Title=40",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 670,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=40",
+     "sha256": "7995fadfe85ad8c766d20bd886068ff36629b0b9eb09d4fb4a44916e8fb99217"
+    }
+   ]
+  },
+  {
+   "slug": "title-41",
+   "short": "SDCL 41",
+   "title": "SDCL Title 41",
+   "url": "https://sdlegislature.gov/Statutes?Title=41",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 623,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=41",
+     "sha256": "10d10729b3e94691a86e6d7a4efc046b40c95d2fa3f2f0fa745b37160f9f6481"
+    }
+   ]
+  },
+  {
+   "slug": "title-42",
+   "short": "SDCL 42",
+   "title": "SDCL Title 42",
+   "url": "https://sdlegislature.gov/Statutes?Title=42",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 387,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=42",
+     "sha256": "5b93e97f55341084e5299c385ba6a7392707f10524fb94721f13fed4d588b095"
+    }
+   ]
+  },
+  {
+   "slug": "title-43",
+   "short": "SDCL 43",
+   "title": "SDCL Title 43 (without chapter 43-32)",
+   "url": "https://sdlegislature.gov/Statutes?Title=43",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 828,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=43",
+     "sha256": "37be0798529cffc22bd18d9be2381a870daa861e9df91b0de854e37d70b3a11b"
+    }
+   ]
+  },
+  {
+   "slug": "title-44",
+   "short": "SDCL 44",
+   "title": "SDCL Title 44",
+   "url": "https://sdlegislature.gov/Statutes?Title=44",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 224,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=44",
+     "sha256": "611b279ddce0eb6e98e84670c00e47b8dd86a14499221021a016855479486181"
+    }
+   ]
+  },
+  {
+   "slug": "title-45",
+   "short": "SDCL 45",
+   "title": "SDCL Title 45",
+   "url": "https://sdlegislature.gov/Statutes?Title=45",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 404,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=45",
+     "sha256": "ffc2d51926cee6068e18ca1362f83de2719bbbe2e1a5af8474dce7566ae28b7a"
+    }
+   ]
+  },
+  {
+   "slug": "title-46",
+   "short": "SDCL 46",
+   "title": "SDCL Title 46",
+   "url": "https://sdlegislature.gov/Statutes?Title=46",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 304,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=46",
+     "sha256": "8d063be6b4ada20f04097c3cef340d700d92411060800261fb2081cf1eb75465"
+    }
+   ]
+  },
+  {
+   "slug": "title-46a",
+   "short": "SDCL 46A",
+   "title": "SDCL Title 46A",
+   "url": "https://sdlegislature.gov/Statutes?Title=46A",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1052,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=46A",
+     "sha256": "fcd97abb0488943bc77518d5590659af316e1cb61b671f2e045cb929c3b10c20"
+    }
+   ]
+  },
+  {
+   "slug": "title-47",
+   "short": "SDCL 47",
+   "title": "SDCL Title 47 (without chapter 47-1A)",
+   "url": "https://sdlegislature.gov/Statutes?Title=47",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1251,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=47",
+     "sha256": "8f3c2a64420557955f41d3c805b379c4f75488aa6c7708790bfb8feedfc5fc02"
+    }
+   ]
+  },
+  {
+   "slug": "title-48",
+   "short": "SDCL 48",
+   "title": "SDCL Title 48",
+   "url": "https://sdlegislature.gov/Statutes?Title=48",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 151,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=48",
+     "sha256": "e02d15347a0c9e3ac7a700b85904395b7db43f691c200dca3123b3c835f1a3c1"
+    }
+   ]
+  },
+  {
+   "slug": "title-49",
+   "short": "SDCL 49",
+   "title": "SDCL Title 49",
+   "url": "https://sdlegislature.gov/Statutes?Title=49",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1262,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=49",
+     "sha256": "59c11a3427daa99da576b8e4f76d597be7cab485955a71f4947a95ac1d089f42"
+    }
+   ]
+  },
+  {
+   "slug": "title-50",
+   "short": "SDCL 50",
+   "title": "SDCL Title 50",
+   "url": "https://sdlegislature.gov/Statutes?Title=50",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 277,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=50",
+     "sha256": "ecde05137ea8c2722f2202441afa2556bdc9a81a61a10c8edba5fc8d959c32cf"
+    }
+   ]
+  },
+  {
+   "slug": "title-51a",
+   "short": "SDCL 51A",
+   "title": "SDCL Title 51A",
+   "url": "https://sdlegislature.gov/Statutes?Title=51A",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 572,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=51A",
+     "sha256": "004b0cda8c4c5c9f48612be568d1177f6971b0c831bcd5967a2de045d7ea3e74"
+    }
+   ]
+  },
+  {
+   "slug": "title-52",
+   "short": "SDCL 52",
+   "title": "SDCL Title 52",
+   "url": "https://sdlegislature.gov/Statutes?Title=52",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 52,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=52",
+     "sha256": "eb771a46a52149e234060c13d036ba78dbcaf7c4d58181ca1608d7a2428b4c50"
+    }
+   ]
+  },
+  {
+   "slug": "title-53",
+   "short": "SDCL 53",
+   "title": "SDCL Title 53",
+   "url": "https://sdlegislature.gov/Statutes?Title=53",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 141,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=53",
+     "sha256": "e939b9c47336f30aa062a089134c18f4cde64d35d9167cd1f835c735176b6b2b"
+    }
+   ]
+  },
+  {
+   "slug": "title-54",
+   "short": "SDCL 54",
+   "title": "SDCL Title 54",
+   "url": "https://sdlegislature.gov/Statutes?Title=54",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 336,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=54",
+     "sha256": "441c51a23acaf9adaf00251c2548349ff50e935a48c0cd1e74d6ae9c8809dd18"
+    }
+   ]
+  },
+  {
+   "slug": "title-55",
+   "short": "SDCL 55",
+   "title": "SDCL Title 55",
+   "url": "https://sdlegislature.gov/Statutes?Title=55",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 569,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=55",
+     "sha256": "f3ee9979ecb0425cadbca96b98ab98caf10726c967033a9278f413a031898bc3"
+    }
+   ]
+  },
+  {
+   "slug": "title-56",
+   "short": "SDCL 56",
+   "title": "SDCL Title 56",
+   "url": "https://sdlegislature.gov/Statutes?Title=56",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 62,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=56",
+     "sha256": "20e7de3e9d7976d825a4e74df133495b06ee04cba7e897c6832a288e8c407509"
+    }
+   ]
+  },
+  {
+   "slug": "title-57a",
+   "short": "SDCL 57A",
+   "title": "SDCL Title 57A",
+   "url": "https://sdlegislature.gov/Statutes?Title=57A",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 677,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=57A",
+     "sha256": "c9fdfcc32ae426f854b755af40ae17b8792d798488701462ddff3309cb33925f"
+    }
+   ]
+  },
+  {
+   "slug": "title-58",
+   "short": "SDCL 58",
+   "title": "SDCL Title 58",
+   "url": "https://sdlegislature.gov/Statutes?Title=58",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3627,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=58",
+     "sha256": "a3d2fdec401726b828470795da8dc90c22ceba4e3ec3c949cd24d6652e60fad7"
+    }
+   ]
+  },
+  {
+   "slug": "title-59",
+   "short": "SDCL 59",
+   "title": "SDCL Title 59",
+   "url": "https://sdlegislature.gov/Statutes?Title=59",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 170,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=59",
+     "sha256": "5497ac0a2698f4111a3558d56ad19cd5d67fb094ca7b1d0a7e901a6248e71090"
+    }
+   ]
+  },
+  {
+   "slug": "title-60",
+   "short": "SDCL 60",
+   "title": "SDCL Title 60",
+   "url": "https://sdlegislature.gov/Statutes?Title=60",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 189,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=60",
+     "sha256": "25ba800cf0c71def2bc1ac3658ed76152717a287b36735f121fa95fcb172afa3"
+    }
+   ]
+  },
+  {
+   "slug": "title-61",
+   "short": "SDCL 61",
+   "title": "SDCL Title 61",
+   "url": "https://sdlegislature.gov/Statutes?Title=61",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 395,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=61",
+     "sha256": "14b204766cf3d2a53be4e9081c6538444ed1aace1832e000fe068d88246bcfd0"
+    }
+   ]
+  },
+  {
+   "slug": "title-62",
+   "short": "SDCL 62",
+   "title": "SDCL Title 62",
+   "url": "https://sdlegislature.gov/Statutes?Title=62",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 260,
+     "source_url": "https://sdlegislature.gov/Statutes?Title=62",
+     "sha256": "3336e325f81b6b249b6e40b7fe5063a1e29a6227bce97f1278bdfa595c56bbb1"
+    }
+   ]
   }
  ]
 }
