@@ -1,6 +1,6 @@
 # How this repository was made (United States (South Dakota))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -18,7 +18,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `constitution` | Constitution of the State of South Dakota | 1 | 2026-09-03 to 2026-09-03 |
 | `title-22-crimes` | SDCL Title 22: Crimes | 1 | 2026-09-03 to 2026-09-03 |
 | `chapter-47-1a-business-corporations` | SDCL chapter 47-1A: South Dakota Business Corporation Act | 1 | 2026-09-03 to 2026-09-03 |
-| `chapter-43-32-residential-landlord-tenant` | SDCL chapter 43-32: Landlord and Tenant | 1 | 2026-09-03 to 2026-09-03 |
+| `chapter-43-32-residential-landlord-tenant` | SDCL chapter 43-32: Landlord and Tenant | 3 | 2022-07-01 to 2026-09-03 |
 | `title-1` | SDCL Title 1 | 1 | 2026-09-03 to 2026-09-03 |
 | `title-2` | SDCL Title 2 | 1 | 2026-09-03 to 2026-09-03 |
 | `title-3` | SDCL Title 3 | 1 | 2026-09-03 to 2026-09-03 |
@@ -87,7 +87,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-61` | SDCL Title 61 | 1 | 2026-09-03 to 2026-09-03 |
 | `title-62` | SDCL Title 62 | 1 | 2026-09-03 to 2026-09-03 |
 
-The build made 71 commits:
+The build made 73 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -96,9 +96,9 @@ The build made 71 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1 laws in the record.
+- 3 laws in the record.
 - 71 tags.
 
 ## Dates
@@ -111,8 +111,8 @@ When a law gives no date of its own, the default rule applies: The Legislative R
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `df38a491e4ce866e0b115c0b262ff4344a1aac05a66453d889944f6ba8c53782` (36392356 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `2a57158681e7510551b7d43f6fa2fd6d48a2b2db981eb552b17e635a4df99967` (36699432 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -127,6 +127,7 @@ No second build of this corpus has been compared yet.
 - Scope: the Constitution and every title of the Codified Laws (first build 2026-10-30: Title 22, chapters 47-1A and 43-32; the rest on 2026-11-03, one act per title, Titles 43 and 47 without the two chapters already published).
 - The "Source:" line of each section (session law citations) and anything after it is dropped; so are constitutional article headings.
 - Wave 3 (2026-11-03): the added titles carry the same single date, 2026-09-03, the API's last statute effective date, credited to the Legislative Research Council; the answers give no in-force day per section, so no amended section is dated from its original enactment. Each chapter answer holds the chapter's table of contents and then every section's own text, which is rendered as a per-section answer is.
+- SDCL chapter 43-32 has an earlier current-text form from July 1, 2022, when 2022 Session Laws chapter 164 took effect. The 2026 chapter 179 amendment to section 43-32-24 took effect July 1, 2026 under SDCL 2-14-16. The pre-amendment wording comes from that law's overstrikes; its after-text matches the current section. The current chapter's Source lines show no other post-2022 changes in chapter 43-32.
 
 ## What AI did and did not do
 
