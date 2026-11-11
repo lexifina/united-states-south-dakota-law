@@ -4,6 +4,6 @@
   "name": "South Dakota",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-south-dakota-law",
-  "build": "built: Constitution; SDCL Title 22, chapters 47-1A and 43-32",
+  "build": "built: Constitution and Codified Laws (71 acts); chapter 43-32 history from 2022",
   "register_date": "2026-10-30"
 }

@@ -1,6 +1,6 @@
 # SDCL chapter 43-32: Landlord and Tenant
 
-SDCL 43-32 · 1 versions, from 2026-09-03 (latest in force: 2026-09-03) · <https://sdlegislature.gov/Statutes?Title=43>
+SDCL 43-32 · 3 versions, from 2022-07-01 (latest in force: 2026-09-03) · <https://sdlegislature.gov/Statutes?Title=43>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,7 +32,7 @@ SDCL 43-32 · 1 versions, from 2026-09-03 (latest in force: 2026-09-03) · <http
 | SDCL 43-32-22 | [0043-0032-0022.md](0043-0032-0022.md) | 0 |  |
 | SDCL 43-32-22.1 | [0043-0032-0022x1.md](0043-0032-0022x1.md) | 0 |  |
 | SDCL 43-32-23 | [0043-0032-0023.md](0043-0032-0023.md) | 0 |  |
-| SDCL 43-32-24 | [0043-0032-0024.md](0043-0032-0024.md) | 0 |  |
+| SDCL 43-32-24 | [0043-0032-0024.md](0043-0032-0024.md) | 1 | 2026-07-01 |
 | SDCL 43-32-24.1 | [0043-0032-0024x1.md](0043-0032-0024x1.md) | 0 |  |
 | SDCL 43-32-25 | [0043-0032-0025.md](0043-0032-0025.md) | 0 |  |
 | SDCL 43-32-26 | [0043-0032-0026.md](0043-0032-0026.md) | 0 |  |

@@ -50,6 +50,18 @@
    "url": "https://sdlegislature.gov/Statutes?Title=43",
    "versions": [
     {
+     "from": "2022-07-01",
+     "units": 43,
+     "source_url": "https://sdlegislature.gov/api/SessionLaws/SessionLaw/33690",
+     "sha256": "d0c94ef9fb085f07052b53b5d3a974325e620d0f2d2bef70d0ee3a8737ae1172"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 43,
+     "source_url": "https://sdlegislature.gov/api/SessionLaws/SessionLaw/33690",
+     "sha256": "d0c94ef9fb085f07052b53b5d3a974325e620d0f2d2bef70d0ee3a8737ae1172"
+    },
+    {
      "from": "2026-09-03",
      "units": 43,
      "source_url": "https://sdlegislature.gov/Statutes?Title=43",
